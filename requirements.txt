@@ -1,6 +1,8 @@
 streamlit>=1.36,<1.39
 yfinance>=0.2.40
 pandas>=2.2.2
-pandas-ta>=0.4.67b0
+git+https://github.com/twopirllc/pandas-ta.git@main
+
 plotly>=5.23
 streamlit-autorefresh>=1.0.1
+
